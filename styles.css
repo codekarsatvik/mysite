@@ -1,0 +1,138 @@
+.uppercontainer
+{
+background-color: #E4F9F5;
+height: 700px;
+font-family: verdana,sans-serif;
+}
+body{
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+.intro{
+  width:30%;
+  margin: auto;
+}
+h1{
+  font-size: 170px;
+  width: 50%;
+  margin: 0 auto 0 auto;
+font-family: 'Sacramento', cursive;
+  color: #66BFBF;;
+}
+h1:hover
+{
+  color: #e6739f;
+  font-size: 190px;
+}
+.cloudtwo{
+  position: absolute;
+}
+p{
+  font-size: 30px;
+    font-family: 'Merriweather', serif;
+}
+.cloud{
+  position: absolute;
+  right: 180px;
+}
+
+.myimage{
+  height: 200px;
+  width: 200px;
+}
+.sun{
+  position: absolute;
+  left: 100px;
+  top: 50px;
+  height: 200px;
+  width: 200px;
+
+}
+.sun:hover{
+  height:220px;
+  width:220px;
+}
+
+.middle-container{
+  position: relative;
+  top: 50px;
+}
+.facebook{
+  position: relative;
+    top: 20px;
+  height: 70px;
+  width: 70px;
+
+}
+.instagram{
+  position: relative;
+  top: 20px;
+  height: 70px;
+  width: 70px;
+
+}
+.youtube{
+  position: relative;
+  top: 20px;
+  height: 70px;
+  width: 70px;
+}
+h2{
+  color: #a1e6e3;
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+h2:hover{
+  color:#ed6663;
+  font-size: 60px;
+}
+.bottom-container{
+  position: relative;
+  top: 50px;
+  background-color: #E4F9F5;
+}
+.youtube:hover{
+  height: 100px;
+  width: 100px;
+}
+.facebook:hover{
+  height: 100px;
+  width: 100px;
+}
+.instagram:hover{
+  height: 100px;
+  width: 100px;
+}
+hr{
+  border-style: dotted none none none ;
+
+height: 1px;
+  width: 7%;
+  color: #66bfbf;
+
+  border-width: 10px;
+}
+.creator{
+  position: relative;
+  left: 50px;
+}
+h3{
+  font-size: 50px;
+
+}
+.btn
+{
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+}
