@@ -1,7 +1,7 @@
 .uppercontainer
 {
 background-color: #E4F9F5;
-height: 700px;
+height: 600px;
 font-family: verdana,sans-serif;
 }
 body{
@@ -37,7 +37,7 @@ p{
 }
 .cloud{
   position: absolute;
-  right: 180px;
+  right: 130px;
 }
 
 .myimage{
